@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Marine Engineering graduate passionate about
 
 #### Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/mbsbahru/)
-- 🌐 [Portfolio](https://drive.google.com/file/d/1QUUJToZIgwvDwj0QKSm1giWfJ0n1Cf4g/view?usp=sharing)
+- 🌐 [Portfolio](https://drive.google.com/file/d/1qJg0FZYwEyJW3ianMA3MOX9ApKcqXx_0/view?usp=sharing)
 - 📧 [Email](mailto:mbsbahru@umich.edu)
 
 Thank you for visiting my GitHub profile!
